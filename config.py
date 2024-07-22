@@ -7,7 +7,7 @@ class Config(object):
     API_HASH  = os.environ.get("API_HASH", "077c18ef264de1c09a32ee2d5c00c79b")
     BOT_TOKEN = os.environ.get("BOT_TOKEN", "6516567847:AAHO7hHOFWvtsI0dIt66W2bylEt-6J-yr1I") 
 
-    # database config
+    # database configb
     DB_NAME = os.environ.get("DB_NAME","AshutoshGoswami24")     
     DB_URL  = os.environ.get("DB_URL","mongodb+srv://avdhez:2004@leech.pg1bvd7.mongodb.net/?retryWrites=true&w=majority")
  
